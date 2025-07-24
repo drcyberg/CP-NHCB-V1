@@ -13,8 +13,8 @@ The self-powered configuration means that the device does not receive power from
 
 ## Functions:
 
-|Side       | Image                                                        |
-| Back side | ![](/img/2.jpg)                                              |
+| Side      | Image                                                       |
+| Back side | ![](/img/2.jpg)                                             |
 
 | Notation | Description                                                  |
 | -------- | ------------------------------------------------------------ |
