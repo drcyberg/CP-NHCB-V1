@@ -11,6 +11,10 @@ The self-powered configuration means that the device does not receive power from
 
 ![](/img/1.jpg)
 
+### Front side
+
+![](/img/2.jpg)
+
 ---
 
 ## Functions:
@@ -42,9 +46,9 @@ The self-powered configuration means that the device does not receive power from
 - 3.3V or 5V power led indicator (programming mode)
 - RX/TX leds indicator
 - Based FT230XS chip
-- PCB Layers Number: 2 Layers
+- Number of PCB layer: 2 layers
 - PCB Compliant: ROHS
-- M2.5 mounting hole
+- 4x M2.5 mounting hole
 
 ---
 
