@@ -32,7 +32,7 @@ The communication PCB is designed to allow direct connection to the Raspberry Pi
 | POWER    | Power led                                                    |
 | FEEDBACK | TX/RX indicator leds                                         |
 
-[^1]: !!!WARNING!!!
+[^1]: !!!Caution: Overvoltage!!!
 
 ---
 
@@ -46,7 +46,7 @@ The communication PCB is designed to allow direct connection to the Raspberry Pi
 
 ### Specifications:
 
-- UART Connectror 2.54mm Pin Header
+- UART Connectror
 - 3.3V or 5V power led indicator (programming mode)
 - RX/TX leds indicator
 - Based FT230XS chip
