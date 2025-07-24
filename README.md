@@ -64,7 +64,7 @@ The self-powered configuration means that the device does not receive power from
 
 ### Dimension:
 
-![](/img/13.jpg)
+![](/img/4.jpg)
 
 ---
 
