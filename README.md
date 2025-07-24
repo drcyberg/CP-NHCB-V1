@@ -9,6 +9,8 @@ The FT230XS is a USB to UART converter integrated circuit (IC) manufactured by F
 The self-powered configuration means that the device does not receive power from USB, but is supplied with the energy required for its operation by an external power supply (external 3.3V stabilized power supply).
 The communication PCB is designed to allow direct connection to the Raspberry Pi using a miniUSB cable without opening the case.
 
+---
+
 ### Brochure
 
 ![](/img/1.jpg)
@@ -44,6 +46,8 @@ The communication PCB is designed to allow direct connection to the Raspberry Pi
 - No external crystal required – uses internal oscillator
 - Driver support: Windows, Linux, macOS
 
+---
+
 ### Specifications:
 
 - UART Connectror
@@ -67,6 +71,12 @@ The communication PCB is designed to allow direct connection to the Raspberry Pi
 ### Dimension:
 
 ![](/img/4.jpg)
+
+---
+
+### Schematic:
+
+![](/img/5.jpg)
 
 ---
 
