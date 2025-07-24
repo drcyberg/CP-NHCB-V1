@@ -23,8 +23,6 @@ The self-powered configuration means that the device does not receive power from
 
 ## Functions:
 
-![](/img/2.jpg)
-
 | Notation | Description                                                  |
 | -------- | ------------------------------------------------------------ |
 | UART     | Serial communication and power interface (2.54mm pin header) |
