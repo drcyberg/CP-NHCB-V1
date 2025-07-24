@@ -4,7 +4,7 @@
 
 ## Description:
 
-This is a Lamp module with one 2020 (5050 metric) RGB Led for the Leder Station. Night Light Function is Showing the Map.
+The FT230XS is a USB to UART converter integrated circuit (IC) manufactured by FTDI (Future Technology Devices International). This chip is a compact, reliable, and easy-to-use solution for serial communication, such as connecting microcontrollers to computers.
 
 ![](/img/1.jpg)
 
@@ -23,6 +23,14 @@ This is a Lamp module with one 2020 (5050 metric) RGB Led for the Leder Station.
 [^1]: Mode1 (Long push Button): On//1.5sec push Button Adjustable Led's Brightness (33% ; 66% ; 100%) ; Mode2 (Long push Button): Off
 
 ---
+
+## FT230XS Chip Features:
+
+- USB 2.0 compatible (Full Speed – 12 Mbps)
+- Serial UART interface: TXD, RXD, RTS#, CTS#
+- Low power, small size QFN package
+- No external crystal required – uses internal oscillator
+- Driver support: Windows, Linux, macOS
 
 ## Specifications:
 
