@@ -50,7 +50,7 @@ The self-powered configuration means that the device does not receive power from
 
 ### V1.0
 - [x] First release
-- [ ] 
+- [ ] Problems
 
 ---
 
