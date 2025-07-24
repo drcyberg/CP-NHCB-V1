@@ -15,6 +15,10 @@ The self-powered configuration means that the device does not receive power from
 
 ![](/img/2.jpg)
 
+### Back side
+
+![](/img/3.jpg)
+
 ---
 
 ## Functions:
