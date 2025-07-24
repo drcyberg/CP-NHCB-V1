@@ -2,11 +2,11 @@
 
 ---
 
-## Description:
+## CyberPointer - Network Helper: Communication Board Description:
 
 The FT230XS is a USB to UART converter integrated circuit (IC) manufactured by FTDI (Future Technology Devices International). This chip is a compact, reliable, and easy-to-use solution for serial communication, such as connecting microcontrollers to computers.
 The self-powered configuration means that the device does not receive power from USB, but is supplied with the energy required for its operation by an external power supply (3.3V stabilized power supply).
-The communication **"Network Helper Communication Board"** PCB is designed to allow direct connection to the Raspberry Pi using a miniUSB cable without opening the case.
+The communication PCB is designed to allow direct connection to the Raspberry Pi using a miniUSB cable without opening the case.
 
 ### Brochure
 
@@ -35,7 +35,7 @@ The communication **"Network Helper Communication Board"** PCB is designed to al
 
 ---
 
-## FT230XS Chip UART Features:
+### FT230XS Chip UART Features:
 
 - USB 2.0 compatible (Full Speed – 12 Mbps)
 - Serial UART interface: TXD, RXD, RTS#, CTS#
@@ -43,7 +43,7 @@ The communication **"Network Helper Communication Board"** PCB is designed to al
 - No external crystal required – uses internal oscillator
 - Driver support: Windows, Linux, macOS
 
-## Specifications:
+### Specifications:
 
 - UART Connectror 2.54mm Pin Header
 - 3.3V or 5V power led indicator (programming mode)
