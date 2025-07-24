@@ -6,7 +6,7 @@
 ## CyberPointer - Network Helper: Communication Board
 
 The FT230XS is a USB to UART converter integrated circuit (IC) manufactured by FTDI (Future Technology Devices International). This chip is a compact, reliable, and easy-to-use solution for serial communication, such as connecting microcontrollers to computers.
-The self-powered configuration means that the device does not receive power from USB, but is supplied with the energy required for its operation by an external power supply (3.3V stabilized power supply).
+The self-powered configuration means that the device does not receive power from USB, but is supplied with the energy required for its operation by an external power supply (external 3.3V stabilized power supply).
 The communication PCB is designed to allow direct connection to the Raspberry Pi using a miniUSB cable without opening the case.
 
 ### Brochure
