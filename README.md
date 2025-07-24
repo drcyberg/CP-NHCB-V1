@@ -1,2 +1,71 @@
 # CP-NHCB-V1
-CP-NHCB-V1
+
+---
+
+## Description:
+
+This is a Lamp module with one 2020 (5050 metric) RGB Led for the Leder Station. Night Light Function is Showing the Map.
+
+![](/img/1.jpg)
+
+---
+
+## Functions:
+
+![](/img/2.jpg)
+
+| Notation | Description                                 |
+| -------- | ------------------------------------------- |
+| A        | Power Button[^1] (ON/OFF)                   |
+| B        | Control Connectror 2.54mm Pin Header        |
+| C        | 2020 (5050 metric) RGB Led                  |
+
+[^1]: Mode1 (Long push Button): On//1.5sec push Button Adjustable Led's Brightness (33% ; 66% ; 100%) ; Mode2 (Long push Button): Off
+
+---
+
+## Specifications:
+
+- One 2020 (5050 metric) RGB Led
+- Control Connectror 2.54mm Pin Header
+- Tactile Switch: Power
+- PCB Layers Number: 2 Layers
+- PCB Compliant: ROHS
+
+---
+
+## Applications:
+
+### V1.0
+- [x] Adjustable RGB Led Brightness (33%; 66%; 100%)
+
+### V1.1
+- [ ] Selectable RGB Led Colors
+
+---
+
+## Features :
+
+![](/img/front.jpg)
+![](/img/back.jpg)
+
+---
+
+### Panelized:
+
+![](/img/4.jpg)
+![](/img/5.jpg)
+
+---
+
+### Dimension:
+
+![](/img/3.jpg)
+
+---
+
+## BOM (Bill Of Materials): [View](https://htmlpreview.github.io/?https://github.com/drcyberg/Leder_Station_Lamp_V1/blob/main/bom/l_s_l_b.html "View")
+
+---
+
+## Created by DrCyberg: [drcyberg@gmail.com](mailto:drcyberg@gmail.com)
