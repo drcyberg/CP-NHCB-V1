@@ -49,24 +49,8 @@ The self-powered configuration means that the device does not receive power from
 ## Applications:
 
 ### V1.0
-- [x] Adjustable RGB Led Brightness (33%; 66%; 100%)
-
-### V1.1
-- [ ] Selectable RGB Led Colors
-
----
-
-## Features :
-
-![](/img/front.jpg)
-![](/img/back.jpg)
-
----
-
-### Panelized:
-
-![](/img/4.jpg)
-![](/img/5.jpg)
+- [x] First release
+- [ ] 
 
 ---
 
