@@ -42,7 +42,7 @@ The self-powered configuration means that the device does not receive power from
 - Based FT230XS chip
 - PCB Layers Number: 2 Layers
 - PCB Compliant: ROHS
-- M2.5 mount hole
+- M2.5 mounting hole
 
 ---
 
