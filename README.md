@@ -18,11 +18,11 @@ The self-powered configuration means that the device does not receive power from
 | Notation | Description                                                       |
 | -------- | ------------------------------------------------------------ |
 | UART     | Serial communication and power interface (2.54mm pin header) |
-| MODE     | Power selectable 3.3V/5V (2.54mm pin header)                 |
+| MODE     | Power selectable 3.3V/5V (2.54mm pin header)[^1]             |
 | POWER    | Power led                                                    |
 | FEEDBACK | TX/RX indicator leds                                         |
 
-[^1]: Mode1 (Long push Button): On//1.5sec push Button Adjustable Led's Brightness (33% ; 66% ; 100%) ; Mode2 (Long push Button): Off
+[^1]: !!!WARNING!!!
 
 ---
 
