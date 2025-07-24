@@ -5,6 +5,7 @@
 ## Description:
 
 The FT230XS is a USB to UART converter integrated circuit (IC) manufactured by FTDI (Future Technology Devices International). This chip is a compact, reliable, and easy-to-use solution for serial communication, such as connecting microcontrollers to computers.
+The self-powered configuration means that the device does not receive power from USB, but is supplied with the energy required for its operation by an external power supply (3.3V stabilized power supply).
 
 ![](/img/1.jpg)
 
@@ -24,19 +25,20 @@ The FT230XS is a USB to UART converter integrated circuit (IC) manufactured by F
 
 ---
 
-## FT230XS Chip Features:
+## FT230XS Chip UART Features:
 
 - USB 2.0 compatible (Full Speed – 12 Mbps)
 - Serial UART interface: TXD, RXD, RTS#, CTS#
-- Low power, small size QFN package
+- Low power, small size SSOP package
 - No external crystal required – uses internal oscillator
 - Driver support: Windows, Linux, macOS
 
 ## Specifications:
 
-- One 2020 (5050 metric) RGB Led
-- Control Connectror 2.54mm Pin Header
-- Tactile Switch: Power
+- UART Connectror 2.54mm Pin Header
+- 3.3V or 5V power led indicator (programming mode)
+- RX/TX leds indicator
+- Based FT230XS chip
 - PCB Layers Number: 2 Layers
 - PCB Compliant: ROHS
 
