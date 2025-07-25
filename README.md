@@ -46,7 +46,7 @@ The miniUSB port offers an alternative way to directly access the RPi's command 
 - Low power, small size SSOP package
 - No external crystal required – uses internal oscillator
 - Driver support: Windows, Linux, macOS
-- Download driver: ([FT230XS Drivers](https://ftdichip.com/products/ft230xs/))
+- Download driver: [FT230XS Drivers](https://ftdichip.com/products/ft230xs/)
 
 ---
 
