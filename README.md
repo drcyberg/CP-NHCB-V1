@@ -62,9 +62,9 @@ The communication PCB is designed to allow direct connection to the Raspberry Pi
 
 ## Applications:
 
-- The PCB is responsible for the power supply, it will always ensure that it is powered.
+- The NHPSU-V1 PCB is responsible for the power supply, it will always ensure that it is powered. Compatible with RPI with 3.3v voltage.
 - Always pay attention to the polarity before connecting them, make sure that you have connected them correctly before turning them on.
-- Connection: RPI TX <---> NHCB-V1 RX; RPI RX <---> NHCB-V1 TX;
+- Connection: RPI TX <---> NHCB-V1 RX; RPI RX <---> NHCB-V1 TX; VDD <---> NHPSU-V1 VDD; GND <---> NHPSU-V1 GND
 
 ---
 
