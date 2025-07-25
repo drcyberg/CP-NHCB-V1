@@ -1,6 +1,6 @@
+theme: jekyll-theme-modernist
 title: Model: CP-NHCB-V1
 description: CyberPointer - Network Helper: Communication Board V1.0
 show_downloads: true
 google_analytics:
-theme: jekyll-theme-modernist
 plugins:
