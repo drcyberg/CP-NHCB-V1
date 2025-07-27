@@ -1,4 +1,4 @@
-theme: jekyll-theme-midnight
+remote_theme: pages-themes/midnight@v0.2.0
 title: CP - NHCB-V1
 description: CyberPointer - Network helper: Communication board V1.0
 show_downloads: true
