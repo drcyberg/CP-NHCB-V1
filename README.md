@@ -16,13 +16,13 @@ The miniUSB port offers an alternative way to directly access the RPi's command 
 
 ![](/img/1.jpg)
 
-### Front side
-
-![](/img/2.jpg)
-
-### Back side
+### Botton side
 
 ![](/img/3.jpg)
+
+### Top side
+
+![](/img/2.jpg)
 
 ---
 
