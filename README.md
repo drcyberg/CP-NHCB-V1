@@ -58,7 +58,7 @@ The miniUSB port offers an alternative way to directly access the RPi's command 
 
 ---
 
-## Applications:
+### Applications:
 
 - The NHPSU-V1 PCB is responsible for the power supply, it will always ensure that it is powered. Compatible with RPI with 3.3v voltage.
 - Always pay attention to the polarity before connecting them, make sure that you have connected them correctly before turning them on.
