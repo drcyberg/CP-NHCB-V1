@@ -1,4 +1,4 @@
-## Description:
+## Description
 
 The FT230XS is a USB to UART converter integrated circuit (IC) manufactured by FTDI (Future Technology Devices International). This chip is a compact, reliable, and easy-to-use solution for serial communication, such as connecting microcontrollers to computers.
 The self-powered configuration means that the device does not receive power from USB, but is supplied with the energy required for its operation by an external power supply (external 3.3V stabilized power supply).
@@ -21,7 +21,7 @@ The miniUSB port offers an alternative way to directly access the RPi's command 
 
 ---
 
-## Functions:
+## Functions
 
 | Notation | Description                                                  |
 | -------- | ------------------------------------------------------------ |
@@ -34,7 +34,7 @@ The miniUSB port offers an alternative way to directly access the RPi's command 
 
 ---
 
-### FT230XS Chip UART Features:
+### FT230XS Chip UART Features
 
 - USB 2.0 compatible (Full Speed – 12 Mbps)
 - Serial UART interface: TXD, RXD, RTS#, CTS#
@@ -45,7 +45,7 @@ The miniUSB port offers an alternative way to directly access the RPi's command 
 
 ---
 
-### Specifications:
+### Specifications
 
 - UART pinout connectror
 - 3.3V or 5V power led indicator (programming mode)
@@ -58,7 +58,7 @@ The miniUSB port offers an alternative way to directly access the RPi's command 
 
 ---
 
-### Applications:
+### Applications
 
 - The NHPSU-V1 PCB is responsible for the power supply, it will always ensure that it is powered. Compatible with RPI with 3.3v voltage.
 - Always pay attention to the polarity before connecting them, make sure that you have connected them correctly before turning them on.
@@ -77,13 +77,13 @@ The miniUSB port offers an alternative way to directly access the RPi's command 
 
 ---
 
-### Dimension:
+### Dimension
 
 ![](/img/4.jpg)
 
 ---
 
-### Schematic:
+### Schematic
 
 ![](/img/5.jpg)
 
