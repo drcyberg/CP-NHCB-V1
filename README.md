@@ -1,4 +1,4 @@
-## Description
+# Description
 
 The FT230XS is a USB to UART converter integrated circuit (IC) manufactured by FTDI (Future Technology Devices International). This chip is a compact, reliable, and easy-to-use solution for serial communication, such as connecting microcontrollers to computers.
 The self-powered configuration means that the device does not receive power from USB, but is supplied with the energy required for its operation by an external power supply (external 3.3V stabilized power supply).
@@ -7,15 +7,15 @@ The miniUSB port offers an alternative way to directly access the RPi's command 
 
 ---
 
-### Brochure
+## Brochure
 
 ![](/img/1.jpg)
 
-### Botton side
+## Botton side
 
 ![](/img/3.jpg)
 
-### Top side
+## Top side
 
 ![](/img/2.jpg)
 
@@ -34,7 +34,7 @@ The miniUSB port offers an alternative way to directly access the RPi's command 
 
 ---
 
-### FT230XS Chip UART Features
+## FT230XS Chip UART Features
 
 - USB 2.0 compatible (Full Speed – 12 Mbps)
 - Serial UART interface: TXD, RXD, RTS#, CTS#
@@ -45,22 +45,22 @@ The miniUSB port offers an alternative way to directly access the RPi's command 
 
 ---
 
-### Specifications
+## Specifications
 
 - UART pinout connectror
 - 3.3V or 5V power led indicator (programming mode)
 - RX/TX leds indicator
-- Based FT230XS chip
-- Mini-B USB
+- Based on FT230XS chip
+- Mini-B USB Interface
 - Number of PCB layer: 2 layers
 - PCB Compliant: ROHS
 - 4x M2.5 mounting hole
 
 ---
 
-### Applications
+## Applications
 
-- The NHPSU-V1 PCB is responsible for the power supply, it will always ensure that it is powered. Compatible with RPI with 3.3v voltage.
+- The NHPSU-V1 PCB is responsible for the power supply, it will always ensure that it is powered. Compatible with RPI with 3.3v voltage GPIO.
 - Always pay attention to the polarity before connecting them, make sure that you have connected them correctly before turning them on.
 - Connection pinout: RPI TX <---> NHCB-V1 RX; RPI RX <---> NHCB-V1 TX; VDD <---> NHPSU-V1 VDD; GND <---> NHPSU-V1 GND
 - Local console connection for RPI management.
@@ -71,26 +71,30 @@ The miniUSB port offers an alternative way to directly access the RPi's command 
 
 ---
 
-### Release: V1.0
+## Release: V1.0
 - [x] First release
 - [ ] Problems
 
 ---
 
-### Dimension
+## Dimension
 
 ![](/img/4.jpg)
 
 ---
 
-### Schematic
+## Schematic
 
 ![](/img/5.jpg)
 
 ---
 
-## BOM (Bill Of Materials): [View](https://htmlpreview.github.io/?https://github.com/drcyberg/Leder_Station_Lamp_V1/blob/main/bom/l_s_l_b.html "View")
+## BOM (Bill Of Materials)
+
+[View](https://htmlpreview.github.io/?https://github.com/drcyberg/Leder_Station_Lamp_V1/blob/main/bom/l_s_l_b.html "View")
 
 ---
 
-## Created by DrCyberg: [drcyberg@gmail.com](mailto:drcyberg@gmail.com)
+## Created by DrCyberg
+
+[drcyberg@gmail.com](mailto:drcyberg@gmail.com)
