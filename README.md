@@ -47,11 +47,11 @@ The miniUSB port offers an alternative way to directly access the RPi's command 
 
 ## Specifications
 
-- UART pinout connectror
+- UART pinout interface
 - 3.3V or 5V power led indicator (programming mode)
 - RX/TX leds indicator
 - Based on FT230XS chip
-- Mini-B USB Interface
+- Mini-B USB interface
 - Number of PCB layer: 2 layers
 - PCB Compliant: ROHS
 - 4x M2.5 mounting hole
@@ -60,9 +60,9 @@ The miniUSB port offers an alternative way to directly access the RPi's command 
 
 ## Applications
 
-- The NHPSU-V1 PCB is responsible for the power supply, it will always ensure that it is powered. Compatible with RPI with 3.3v voltage GPIO.
+- The CP-NHPSU-V1 PCB is responsible for the power supply to the CP-NHCB-V1, it will always ensure that it is powered. Compatible with RPI with 3.3v voltage GPIO.
 - Always pay attention to the polarity before connecting them, make sure that you have connected them correctly before turning them on.
-- Connection pinout: RPI TX <---> NHCB-V1 RX; RPI RX <---> NHCB-V1 TX; VDD <---> NHPSU-V1 VDD; GND <---> NHPSU-V1 GND
+- UART connection pinout: RPI-5 TX <---> NHCB-V1 RX; RPI-5 RX <---> NHCB-V1 TX; VDD <---> NHPSU-V1 VDD; GND <---> NHPSU-V1 GND
 - Local console connection for RPI management.
 - Does not provide power, only establishes a data connection.
 - Supported operating systems: Windows, Linux, macOS (depending on driver availability and version).
