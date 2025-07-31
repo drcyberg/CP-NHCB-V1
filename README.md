@@ -24,7 +24,7 @@ The miniUSB port offers an alternative way to directly access the RPi's command 
 ## Functions
 
 | Notation | Description                                                  |
-| -------- | ------------------------------------------------------------ |
+|:---------|:-------------------------------------------------------------|
 | UART     | Serial communication and power interface (2.54mm pin header) |
 | MODE     | Power selectable 3.3V/5V (2.54mm pin header)[^1]             |
 | POWER    | Power led                                                    |
