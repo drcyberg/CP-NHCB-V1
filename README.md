@@ -72,7 +72,7 @@ The miniUSB port offers an alternative way to directly access the RPi's command 
 ---
 
 ## Release: V1.0
-- [x] First release
+- [x] Initial release
 - [ ] Problems
 
 ---
